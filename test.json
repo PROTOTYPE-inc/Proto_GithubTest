@@ -1,0 +1,682 @@
+{
+    "type" : "collection",
+    "data" : [ {
+      "id" : "3074457357913944131",
+      "type" : "kanban",
+      "createdAt" : "2021-04-27T13:05:31Z",
+      "createdBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "modifiedAt" : "2021-05-05T11:43:54Z",
+      "modifiedBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      }
+    }, {
+      "id" : "3074457357913944508",
+      "type" : "card",
+      "title" : "<p>いいい</p>",
+      "description" : "",
+      "date" : null,
+      "card" : null,
+      "x" : 1384.73560134707,
+      "rotation" : 0.0,
+      "assignee" : {
+        "userId" : null
+      },
+      "y" : 252.156044054518,
+      "scale" : 1.0,
+      "style" : {
+        "backgroundColor" : "#2d9bf0"
+      },
+      "createdAt" : "2021-04-27T13:06:41Z",
+      "createdBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "modifiedAt" : "2021-05-05T11:43:54Z",
+      "modifiedBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      }
+    }, {
+      "id" : "3074457357913944521",
+      "type" : "card",
+      "title" : "<p>ううう</p>",
+      "description" : "",
+      "date" : null,
+      "card" : null,
+      "x" : 1758.73560134707,
+      "rotation" : 0.0,
+      "assignee" : {
+        "userId" : null
+      },
+      "y" : 252.156044054518,
+      "scale" : 1.0,
+      "style" : {
+        "backgroundColor" : "#2d9bf0"
+      },
+      "createdAt" : "2021-04-27T13:06:45Z",
+      "createdBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "modifiedAt" : "2021-05-05T11:43:54Z",
+      "modifiedBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      }
+    }, {
+      "id" : "3074457357914132093",
+      "type" : "paint",
+      "x" : 183.146018135394,
+      "y" : -257.464266054155,
+      "scale" : 1.0,
+      "style" : {
+        "borderColor" : "#1a1a1a",
+        "borderWidth" : 2.0
+      },
+      "points" : [ {
+        "x" : 24.4797701931283,
+        "y" : -119.913115946031
+      }, {
+        "x" : 18.1867701434809,
+        "y" : -119.913115946031
+      }, {
+        "x" : -4.40510003475327,
+        "y" : -119.913115946031
+      }, {
+        "x" : -29.5141702328463,
+        "y" : -119.535535943052
+      }, {
+        "x" : -72.2436405699521,
+        "y" : -117.584705927662
+      }, {
+        "x" : -102.135390805777,
+        "y" : -116.326105917732
+      }, {
+        "x" : -135.740011070894,
+        "y" : -115.382155910285
+      }, {
+        "x" : -182.685791441264,
+        "y" : -111.858075882482
+      }, {
+        "x" : -205.466451620987,
+        "y" : -110.725335873546
+      }, {
+        "x" : -233.533231842415,
+        "y" : -108.963295859645
+      }, {
+        "x" : -247.566621953128,
+        "y" : -108.208135853687
+      }, {
+        "x" : -257.950072035047,
+        "y" : -106.446095839786
+      }, {
+        "x" : -264.620652087673,
+        "y" : -105.879725835317
+      }, {
+        "x" : -268.396452117461,
+        "y" : -104.998705828367
+      }, {
+        "x" : -270.03263213037,
+        "y" : -104.432335823898
+      }, {
+        "x" : -271.668812143278,
+        "y" : -102.481505808508
+      }, {
+        "x" : -275.067032170088,
+        "y" : -100.65653579411
+      }, {
+        "x" : -278.842832199876,
+        "y" : -97.2583157673004
+      }, {
+        "x" : -283.373792235622,
+        "y" : -93.2937257360226
+      }, {
+        "x" : -290.673672293213,
+        "y" : -88.825695700773
+      }, {
+        "x" : -294.82705232598,
+        "y" : -86.308495680914
+      }, {
+        "x" : -296.274442337399,
+        "y" : -85.7421256764457
+      }, {
+        "x" : -296.652022340378,
+        "y" : -84.8611056694951
+      }, {
+        "x" : -297.721832348818,
+        "y" : -84.6723156680057
+      }, {
+        "x" : -298.791642357258,
+        "y" : -84.4835256665162
+      }, {
+        "x" : -298.980432358748,
+        "y" : -83.4137156580762
+      }, {
+        "x" : -298.791642357258,
+        "y" : -81.0223756392102
+      }, {
+        "x" : -296.96667234286,
+        "y" : -73.5337055801298
+      }, {
+        "x" : -288.974562279808,
+        "y" : -65.7933155190635
+      }, {
+        "x" : -268.207662115972,
+        "y" : -58.9968754654443
+      }, {
+        "x" : -236.30215186426,
+        "y" : -56.1020954426065
+      }, {
+        "x" : -179.979801419916,
+        "y" : -56.2908854440959
+      }, {
+        "x" : -134.481411060965,
+        "y" : -59.877895472395
+      }, {
+        "x" : -80.6762606364795,
+        "y" : -65.4157355160846
+      }, {
+        "x" : -36.3735402869619,
+        "y" : -69.5691155488519
+      }, {
+        "x" : 11.0127500868829,
+        "y" : -72.7785455741721
+      }, {
+        "x" : 47.6380103758307,
+        "y" : -73.3449155786404
+      }, {
+        "x" : 89.6752507074752,
+        "y" : -73.1561255771509
+      }, {
+        "x" : 108.365460854928,
+        "y" : -72.0863155687109
+      }, {
+        "x" : 113.462790895143,
+        "y" : -70.638925557292
+      }, {
+        "x" : 115.28776090954,
+        "y" : -68.121725537433
+      }, {
+        "x" : 117.61617092791,
+        "y" : -62.6468154942398
+      }, {
+        "x" : 119.944580946279,
+        "y" : -49.3056553889873
+      }, {
+        "x" : 121.580760959188,
+        "y" : -34.4541752718195
+      }, {
+        "x" : 123.909170977557,
+        "y" : 0.0943950007447114
+      }, {
+        "x" : 125.671210991458,
+        "y" : 31.3706052474923
+      }, {
+        "x" : 123.720380976068,
+        "y" : 64.9752255126093
+      }, {
+        "x" : 119.000630938832,
+        "y" : 88.1334656953117
+      }, {
+        "x" : 110.127500868829,
+        "y" : 107.578835848722
+      }, {
+        "x" : 102.701760810245,
+        "y" : 114.375275902341
+      }, {
+        "x" : 81.5572806434302,
+        "y" : 118.654515936102
+      }, {
+        "x" : 62.8670704959774,
+        "y" : 119.913115946031
+      }, {
+        "x" : 38.5760903043385,
+        "y" : 117.207125924683
+      }, {
+        "x" : 18.5014201459633,
+        "y" : 108.33399585468
+      }, {
+        "x" : -1.63618001290831,
+        "y" : 90.3360157126884
+      }, {
+        "x" : -9.31364007347815,
+        "y" : 73.030265576158
+      }, {
+        "x" : -11.3903300898618,
+        "y" : 42.6980053368576
+      }, {
+        "x" : -2.0137600158871,
+        "y" : 14.8829451174161
+      }, {
+        "x" : 19.7600201558928,
+        "y" : -13.3096951050042
+      }, {
+        "x" : 45.8130403614331,
+        "y" : -26.2103452067814
+      }, {
+        "x" : 95.0872307501721,
+        "y" : -31.9369752519605
+      }, {
+        "x" : 132.215931043092,
+        "y" : -29.7344252345839
+      }, {
+        "x" : 180.672031425377,
+        "y" : -17.6518651392609
+      }, {
+        "x" : 210.374991659712,
+        "y" : -7.70892506081805
+      }, {
+        "x" : 230.76431182057,
+        "y" : 1.41592501117067
+      }, {
+        "x" : 237.686611875182,
+        "y" : 7.96064506280395
+      }, {
+        "x" : 236.931451869224,
+        "y" : 18.5958151467081
+      }, {
+        "x" : 227.240231792767,
+        "y" : 35.9644952837349
+      }, {
+        "x" : 209.808621655244,
+        "y" : 53.0185254182793
+      }, {
+        "x" : 188.538281487436,
+        "y" : 65.2269455145953
+      }, {
+        "x" : 174.253171374736,
+        "y" : 70.4501355558026
+      }, {
+        "x" : 163.177491287357,
+        "y" : 69.1915355458731
+      }, {
+        "x" : 159.527551258561,
+        "y" : 60.1296154743809
+      }, {
+        "x" : 161.793031276434,
+        "y" : 38.2929053021044
+      }, {
+        "x" : 179.791011418426,
+        "y" : 12.8062551010324
+      }, {
+        "x" : 213.018051680564,
+        "y" : -7.96064506280396
+      }, {
+        "x" : 244.483051928801,
+        "y" : -16.5191251303244
+      }, {
+        "x" : 279.912642208316,
+        "y" : -20.9871551655741
+      }, {
+        "x" : 293.442592315058,
+        "y" : -21.7423151715317
+      }, {
+        "x" : 298.980432358748,
+        "y" : -21.7423151715317
+      }, {
+        "x" : 298.854572357755,
+        "y" : -21.7423151715317
+      } ],
+      "createdAt" : "2021-04-27T13:08:34Z",
+      "createdBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "modifiedAt" : "2021-05-05T11:43:54Z",
+      "modifiedBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      }
+    }, {
+      "id" : "3074457357954884897",
+      "style" : {
+        "padding" : null,
+        "backgroundOpacity" : null,
+        "backgroundColor" : "#7b92ff",
+        "borderColor" : null,
+        "borderStyle" : null,
+        "borderOpacity" : null,
+        "borderWidth" : null,
+        "fontSize" : 64,
+        "fontFamily" : "OpenSans",
+        "textColor" : null,
+        "textAlign" : "center",
+        "textAlignVertical" : "middle",
+        "shapeType" : null
+      },
+      "text" : "<p>end</p>",
+      "x" : 97.3082244619111,
+      "y" : 415.400013019344,
+      "width" : 199.0,
+      "height" : 228.0,
+      "scale" : 0.54,
+      "type" : "sticker",
+      "createdAt" : "2021-04-28T05:20:33Z",
+      "modifiedAt" : "2021-05-05T11:43:57Z",
+      "modifiedBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "createdBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "capabilities" : {
+        "editable" : true
+      }
+    }, {
+      "id" : "3074457357955119806",
+      "style" : {
+        "padding" : null,
+        "backgroundOpacity" : null,
+        "backgroundColor" : "#fff9b1",
+        "borderColor" : null,
+        "borderStyle" : null,
+        "borderOpacity" : null,
+        "borderWidth" : null,
+        "fontSize" : 38,
+        "fontFamily" : "OpenSans",
+        "textColor" : null,
+        "textAlign" : "center",
+        "textAlignVertical" : "middle",
+        "shapeType" : null
+      },
+      "text" : "<p>スタート</p>",
+      "x" : -21.9815482144389,
+      "y" : -108.627742201653,
+      "width" : 199.0,
+      "height" : 228.0,
+      "scale" : 1.56273686654262,
+      "type" : "sticker",
+      "createdAt" : "2021-04-28T05:30:17Z",
+      "modifiedAt" : "2021-05-05T11:43:54Z",
+      "modifiedBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "createdBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "capabilities" : {
+        "editable" : true
+      }
+    }, {
+      "id" : "3074457357955976733",
+      "style" : {
+        "padding" : null,
+        "backgroundOpacity" : 1.0,
+        "backgroundColor" : "#ffffffff",
+        "borderColor" : "#ff0000",
+        "borderStyle" : "normal",
+        "borderOpacity" : 1.0,
+        "borderWidth" : 2.0,
+        "fontSize" : 14,
+        "fontFamily" : "OpenSans",
+        "textColor" : "#1a1a1a",
+        "textAlign" : "center",
+        "textAlignVertical" : "middle",
+        "shapeType" : "octagon"
+      },
+      "text" : "形",
+      "x" : -582.2114775787,
+      "y" : -253.090856079939,
+      "width" : 100.0,
+      "height" : 100.0,
+      "rotation" : 0.0,
+      "type" : "shape",
+      "createdAt" : "2021-04-28T06:04:58Z",
+      "modifiedAt" : "2021-04-28T06:40:17Z",
+      "modifiedBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "createdBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "capabilities" : {
+        "editable" : true
+      }
+    }, {
+      "id" : "3074457357956459842",
+      "type" : "card",
+      "title" : "<p>えええ</p>",
+      "description" : "",
+      "date" : null,
+      "card" : null,
+      "x" : 896.519082165316,
+      "rotation" : 0.0,
+      "assignee" : {
+        "userId" : null
+      },
+      "y" : 401.695021370492,
+      "scale" : 1.0,
+      "style" : {
+        "backgroundColor" : "#2d9bf0"
+      },
+      "createdAt" : "2021-04-28T06:18:45Z",
+      "createdBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "modifiedAt" : "2021-05-05T11:43:57Z",
+      "modifiedBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      }
+    }, {
+      "id" : "3074457357956275383",
+      "type" : "card",
+      "title" : "タイトル",
+      "description" : "概要",
+      "date" : "2020-01-01",
+      "card" : null,
+      "x" : 380.012323270573,
+      "rotation" : 0.0,
+      "assignee" : {
+        "userId" : null
+      },
+      "y" : 269.156044054518,
+      "scale" : 1.0,
+      "style" : {
+        "backgroundColor" : "#9510ac"
+      },
+      "createdAt" : "2021-04-28T06:24:52Z",
+      "createdBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "modifiedAt" : "2021-05-05T11:43:57Z",
+      "modifiedBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "capabilities" : {
+        "editable" : true
+      }
+    }, {
+      "id" : "3074457357913944135",
+      "type" : "card",
+      "title" : "<p>あああいいいうううううええええええええええ</p>",
+      "description" : "",
+      "date" : null,
+      "card" : null,
+      "x" : 449.470205743495,
+      "rotation" : 0.0,
+      "assignee" : {
+        "userId" : null
+      },
+      "y" : 446.960013019343,
+      "scale" : 1.0,
+      "style" : {
+        "backgroundColor" : "#2399f3"
+      },
+      "createdAt" : "2021-04-27T13:05:31Z",
+      "createdBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "modifiedAt" : "2021-05-05T11:43:57Z",
+      "modifiedBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      }
+    }, {
+      "id" : "3074457358250564087",
+      "style" : {
+        "padding" : null,
+        "backgroundOpacity" : null,
+        "backgroundColor" : "#fff9b1",
+        "borderColor" : null,
+        "borderStyle" : null,
+        "borderOpacity" : null,
+        "borderWidth" : null,
+        "fontSize" : 38,
+        "fontFamily" : "OpenSans",
+        "textColor" : null,
+        "textAlign" : "center",
+        "textAlignVertical" : "middle",
+        "shapeType" : null
+      },
+      "text" : "<p>スタート</p>",
+      "x" : -527.464179130307,
+      "y" : 195.063533473338,
+      "width" : 199.0,
+      "height" : 228.0,
+      "scale" : 0.54,
+      "type" : "sticker",
+      "createdAt" : "2021-05-04T11:29:48Z",
+      "modifiedAt" : "2021-05-05T11:43:54Z",
+      "modifiedBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "createdBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "capabilities" : {
+        "editable" : true
+      }
+    }, {
+      "id" : "3074457358250564147",
+      "startWidget" : {
+        "id" : "3074457358250564087"
+      },
+      "endWidget" : {
+        "id" : "3074457357955119806"
+      },
+      "style" : {
+        "borderColor" : "#000000",
+        "borderStyle" : "normal",
+        "borderWidth" : 5.0,
+        "lineEndType" : "opaque_block",
+        "lineStartType" : "circle",
+        "lineType" : "bezier"
+      },
+      "type" : "line",
+      "createdAt" : "2021-05-04T11:29:55Z",
+      "modifiedAt" : "2021-05-05T11:43:54Z",
+      "modifiedBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "createdBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      }
+    }, {
+      "id" : "3074457358252835513",
+      "style" : {
+        "padding" : null,
+        "backgroundOpacity" : 1.0,
+        "backgroundColor" : "#ffffffff",
+        "borderColor" : "#7a28ff",
+        "borderStyle" : "normal",
+        "borderOpacity" : 1.0,
+        "borderWidth" : 2.0,
+        "fontSize" : 14,
+        "fontFamily" : "OpenSans",
+        "textColor" : "#1a1a1a",
+        "textAlign" : "left",
+        "textAlignVertical" : null,
+        "shapeType" : "pill"
+      },
+      "text" : "<p>MindMap</p>",
+      "x" : -574.26810641527,
+      "y" : -32.4231774989231,
+      "width" : 104.34,
+      "scale" : 1.0,
+      "rotation" : 0.0,
+      "type" : "text",
+      "createdAt" : "2021-05-04T12:08:57Z",
+      "modifiedAt" : "2021-05-05T11:43:54Z",
+      "modifiedBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "createdBy" : {
+        "type" : "user",
+        "name" : "inok",
+        "id" : "3074457347612733285"
+      },
+      "mindmap" : {
+        "theme" : "colorBranch",
+        "layout" : "butterfly"
+      }
+    }, {
+      "id" : "3074457358252835523",
+      "style" : {
+        "padding" : 8,
+        "backgroundOpacity" : 1.0,
+        "backgroundColor" : "#ffffffff",
+        "borderColor" : "#ffffffff",
+        "borderStyle" : "normal",
+        "borderOpacity" : 1.0,
+        "borderWidth" : 2.0,
+        "fontSize" : 14,
+        "fontFamily" : "OpenSans",
+        "textColor" : "#1a1a1a",
+        "textAlign" : "left",
+        "textAlignVertical" : null,
+        "shapeType" : "text_rect"
+      },
+      "text" : "<p>maidMap1</p>",
+      "x" : -367.26810641527,
+      "y" : -32.4231774989231,
+      "width" : 66.74,
+      "scale" : 1.0,
+      "rotation" : 0.0,
+      "type" : "text",
+      "createdAt" : "2021-05-04T12:08:59Z",
+      "modi<message truncated>
